@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718003429762",
+    "project_id": "specific-user-profile-auth",
+    "storage_bucket": "specific-user-profile-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718003429762:android:2f813a7ab747d894a0ef9b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_profileauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHLJ77T4qyPLBuOjVNPtIsiFbtocjdBjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
